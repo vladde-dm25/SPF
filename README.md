@@ -33,5 +33,6 @@ Analysen är strukturerad för att besvara följande frågor rörande studenters
    4. Hur påverkar socioekonomiska faktorer (resurser och föräldrastöd) resultaten?
 
         Svar: Rapporten visar tydligt hur materiellt stöd och föräldrainvolvering samverkar för att skapa en mer gynnsam lärmiljö.
+        
 
     
