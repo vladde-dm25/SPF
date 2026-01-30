@@ -2,7 +2,7 @@
 
 ## Projektbeskrivning
 
-Detta projekt [SPF](main_spf_ipynb) syftar till att undersöka vilka faktorer som har störst påverkan på studenters akademiska resultat. Genom att analysera datasetet **StudentPerformanceFactors.csv**, som omfattar data från 6 378 studenter, har projektet identifierat mönster kring studietid, närvaro, föräldrainvolvering och tillgång till resurser.
+Detta projekt [SPF](main_spf.ipynb) syftar till att undersöka vilka faktorer som har störst påverkan på studenters akademiska resultat. Genom att analysera dataset **StudentPerformanceFactors.csv**, som omfattar data från 6 378 studenter, har projektet identifierat mönster kring studietid, närvaro, föräldrainvolvering och tillgång till resurser.
 
 Analysen har genomförts med hjälp av Python-bibliotek som **Pandas**, **Seaborn** och **Matplotlib** för att visualisera samband och statistiska fördelningar.
 Centrala resultat från analysen:
